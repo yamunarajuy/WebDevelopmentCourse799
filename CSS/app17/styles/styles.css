@@ -1,0 +1,20 @@
+/* RGBA A-opacity/transparency 0-1*/
+#first
+{
+    color:rgba(255,0,0,1);/* 1 =opacity means full */
+    background:rgba(0, 0, 0, 0.406);
+}
+#second
+{
+    color:rbga(255,0,0,0.75);
+    background:rgba(0, 0, 0, 0.25);
+}
+#third
+{
+    color:rgba(255,0,0,0.25);
+    background:rgba(0,0,0,0.75);
+}
+body{
+   /* background:rgba(0,0,0); */
+   backgroung:rgb(210,89,210);
+}

@@ -1,0 +1,22 @@
+/* div and spam used for groping purpose*/
+/* div- used to group multiple elements */
+/* span -used to group inline content */
+.green
+{
+    color:green;
+    background:yellow;
+}
+.red
+{
+    color:red;
+    background:black;
+}
+span{
+    display: block;
+    text-transform:uppercase;
+}
+.text
+{
+    background:white;
+    color:blue;
+}

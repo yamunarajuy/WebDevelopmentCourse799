@@ -1,0 +1,13 @@
+/* percentage - RELATIVE on the parent value */
+.outer
+{
+    width: 200px;
+    height:200px;
+    background:blue;
+}
+.inner
+{
+    width:50%;
+    height:50%;
+    background:red;
+}

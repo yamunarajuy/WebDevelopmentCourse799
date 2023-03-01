@@ -1,0 +1,33 @@
+.green-uppercase{
+    color:green;
+}
+
+.blue-uppercase
+{
+    color:blue;
+
+}
+.dodgerblue
+{
+    color:dodgerblue;
+    
+}
+.yellow
+{
+    color:yellow;
+}
+.red
+{
+    color:red;
+}
+.uppercase
+{
+    text-transform: uppercase;
+}
+#uppercase{
+    text-transform: uppercase;
+}
+.cyan
+{
+    color:cyan;
+}

@@ -1,0 +1,19 @@
+/*  rem - relative, depends or not    */
+/*  1rem =base value(16px) * number (1) =16px */
+
+/* rem  depend on root ex :html */
+
+html{
+    font-size: 32px;
+}
+div{
+    font-size: 5px;
+}
+.absolute
+{
+    font-size: 32px;
+}
+.relative
+{
+    font-size: 2rem;
+}
